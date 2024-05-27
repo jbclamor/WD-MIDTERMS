@@ -108,3 +108,63 @@
     font-size: 400%;
 }
 
+.second_halfpage {
+  padding-top: 3rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  padding-bottom: 10rem;
+  font-size: 150%;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.table1 {
+  border: solid;
+  background-color: hsla(19, 100%, 50%, 0.952);
+
+  border-radius: 20%;
+}
+
+.table2 {
+  border: solid;
+  background-color: hsla(19, 100%, 50%, 0.952);
+
+  border-radius: 20%;
+}
+
+.table3 {
+  border: solid;
+  background-color: hsla(19, 100%, 50%, 0.952);
+
+  border-radius: 20%;
+}
+
+.table4 {
+  border: solid;
+  background-color: hsla(19, 100%, 50%, 0.952);
+
+  border-radius: 20%;
+}
+
+.button-61 {
+  appearance: none;
+  background-color: transparent;
+  border: 1px solid #dbdbdb;
+  border-radius: 10em;
+  box-shadow: none;
+  box-sizing: border-box;
+  color: #363636;
+  cursor: pointer;
+  padding: 1rem;
+  text-align: center;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: top;
+  white-space: nowrap;
+  margin-bottom: 10%;
+  position: absolute;
+  left: 850px;
+}
